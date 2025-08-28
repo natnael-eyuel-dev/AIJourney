@@ -31,7 +31,7 @@ I’m a **Software Engineering student at Addis Ababa University** with a strong
 
 ---
 
-Check out my work on my [main GitHub account](https://github.com/natnael-eyuel-dev), with more projects available on my [secondary account](https://github.com/natnaeleyuel/natnaeleyuel).
+Check out my work on my [main GitHub account](https://github.com/natnael-eyuel-dev), with more projects available on my [secondary account](https://github.com/natnaeleyuel).
 
 ---
 

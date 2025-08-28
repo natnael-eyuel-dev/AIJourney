@@ -1,18 +1,42 @@
-# Hi, I'm [Your Name] 👋
+Here’s a polished, professional version of your self-introduction that you can use for LinkedIn, GitHub, or portfolio sites:
 
-I'm a Software Engineering student at Addis Ababa University, passionate about Artificial Intelligence (AI), Machine Learning (ML), and AI-driven solutions. I love building innovative projects and exploring the intersection of technology and real-world impact.
+---
+
+# 👋 Hi, I’m **Natnael Eyuel**
+
+I’m a **Software Engineering student at Addis Ababa University** with a strong passion for **Artificial Intelligence (AI), Machine Learning (ML), and AI-driven solutions**. I enjoy building impactful projects at the intersection of technology and real-world challenges, with a focus on scalable backend systems and intelligent applications.
+
+---
 
 ## 🚀 Current Journey
-- **AI Talent Internship at iCog Labs**: Currently honing my skills in AI and ML through a dynamic internship, working on cutting-edge projects.
-- Actively learning and contributing to advancements in AI-driven technologies.
+
+* **AI Talent Intern | iCog Labs**
+  Developing practical skills in AI/ML while contributing to innovative, real-world projects.
+
+* **Member | A2SV (Google-backed, 2025–Present)**
+  Collaborating on AI-powered solutions designed to address societal challenges.
+  Actively learning, experimenting, and pushing forward advancements in AI-driven technologies.
+
+---
 
 ## 💻 Technical Skills
-- **Backend Development**: Proficient in Node.js (Express, NestJS), Go
-- **Cloud & DevOps**: Familiar with Docker, Kubernetes, and CI/CD pipelines
-- **Interests**: AI, Machine Learning, and scalable system design
 
-## 🌟 What I'm Working On
-- Building robust backend systems and exploring AI/ML applications
-- Continuously learning and experimenting with cloud-native technologies
+* **Backend Development:** Node.js (Express, NestJS), Go
+* **Cloud & DevOps:** Docker, Kubernetes, CI/CD pipelines
+* **Core Interests:** Artificial Intelligence, Machine Learning, Scalable System Design
 
-Feel free to check out my projects and connect with me!
+---
+
+## 🌟 What I’m Working On
+
+* Building reliable and efficient backend systems.
+* Exploring AI/ML applications that solve real-world problems.
+* Continuously learning and experimenting with **cloud-native** and **AI-driven** technologies.
+
+---
+
+Check out my work on my [main GitHub account](https://github.com/natnael-eyuel-dev), with more projects available on my [secondary account](https://github.com/natnaeleyuel/natnaeleyuel).
+
+---
+
+💻 Always happy to connect, share ideas, and collaborate on exciting projects.

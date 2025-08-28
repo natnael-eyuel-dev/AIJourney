@@ -1,7 +1,3 @@
-Here’s a polished, professional version of your self-introduction that you can use for LinkedIn, GitHub, or portfolio sites:
-
----
-
 # 👋 Hi, I’m **Natnael Eyuel**
 
 I’m a **Software Engineering student at Addis Ababa University** with a strong passion for **Artificial Intelligence (AI), Machine Learning (ML), and AI-driven solutions**. I enjoy building impactful projects at the intersection of technology and real-world challenges, with a focus on scalable backend systems and intelligent applications.
